@@ -1,4 +1,5 @@
-# [Try it here](https://bob-eyes-code-intelligence-visualiz.vercel.app)
+## Live Demo
+🌐[Try it here - Click me](https://bob-eyes-code-intelligence-visualiz.vercel.app)
 
 # 🔍 Bob Eyes - Code Intelligence Visualizer
 
