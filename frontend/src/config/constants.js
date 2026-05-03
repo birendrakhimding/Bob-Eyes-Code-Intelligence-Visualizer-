@@ -1,4 +1,4 @@
-export const API_URL = "http://localhost:8000";
+export const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
 export const COLORS = {
   function: { bg: "#1a1a2e", border: "#6C63FF", text: "#E8E6FF", accent: "#A59BFF" },
