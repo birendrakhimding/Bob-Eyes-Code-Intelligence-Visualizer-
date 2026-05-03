@@ -9,7 +9,11 @@ app = FastAPI(title="Code Intelligence Visualizer")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "https://bob-eyes-code-intelligence-visualiz.vercel.app",
+        "https://bob-eyes-code-intelligence-visualizer-5dz94prqz.vercel.app",
+        "http://localhost:5173",
+    ],
     allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
