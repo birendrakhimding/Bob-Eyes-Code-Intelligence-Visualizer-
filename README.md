@@ -1,3 +1,5 @@
+# [Try it here](https://bob-eyes-code-intelligence-visualiz.vercel.app)
+
 # 🔍 Bob Eyes - Code Intelligence Visualizer
 
 A powerful code analysis and visualization tool that parses code in multiple languages, extracts relationships between functions and classes, and displays them in an interactive graph visualization.
